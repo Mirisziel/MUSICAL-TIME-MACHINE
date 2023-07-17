@@ -1,6 +1,6 @@
 # MUSICAL TIME MACHINE
 
-A Musical Time Machine that will take you on a musical journey to any date you like 
+A Musical Time Machine that will take you on a musical journey to any date you like.
 This application creates spotify playlist of TOP 100 songs from a specific date 
 
 ## Features: 
